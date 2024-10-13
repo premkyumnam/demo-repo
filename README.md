@@ -6,4 +6,5 @@ Some description!
 
 Watch tutorial on My YouTube
 
-## Open index.html on browser
+## To see
+Open index.html on browser
