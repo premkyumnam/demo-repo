@@ -6,5 +6,5 @@ Some description!
 
 Watch tutorial on My YouTube
 
-## Web Developmwnt
-Open index.html in browser
+## Local Developmwnt
+1. Open index.html in browser
