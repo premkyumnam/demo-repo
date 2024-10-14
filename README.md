@@ -6,5 +6,5 @@ Some description!
 
 Watch tutorial on My YouTube
 
-## To see
-Open index.html on browser
+## Local Development
+1. Open index.html in your browser.S
